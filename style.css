@@ -201,9 +201,3 @@ main{
 .content-videos video:hover{
     box-shadow: 0 1rem 1rem rgb(43, 15, 6);
 }
-
-footer{
-    width: 100%;
-    height: 100%;
-    background-color: red;
-}
